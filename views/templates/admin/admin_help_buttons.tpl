@@ -10,5 +10,5 @@
 <div class="alert alert-info">
 <img src="../modules/vrpayment/logo.png" style="float:left; margin-right:15px;" height="50">
 <p><strong>{l s='This module requires an %s account.' sprintf='VR Payment' mod='vrpayment'}</strong></p>
-<p><a class="btn btn-default" href="https://gateway.vr-payment.de/user/login" target="_blank">{l s='Sign Up' mod='vrpayment'}</a> <a class="btn btn-default" href="https://gateway.vr-payment.de/doc/prestashop-1.7/1.2.49/docs/en/documentation.html" target="_blank">{l s='Documentation' mod='vrpayment'}</a></p>
+<p><a class="btn btn-default" href="https://gateway.vr-payment.de/user/login" target="_blank">{l s='Sign Up' mod='vrpayment'}</a> <a class="btn btn-default" href="https://gateway.vr-payment.de/doc/prestashop-1.7/1.2.50/docs/en/documentation.html" target="_blank">{l s='Documentation' mod='vrpayment'}</a></p>
 </div>

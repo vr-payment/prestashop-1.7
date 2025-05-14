@@ -5,7 +5,7 @@
 # PrestaShop 1.7 VR Payment Integration
 This repository contains the PrestaShop VR Payment payment module that enables the shop to process payments with [VR Payment](https://www.vr-payment.de/).
 
-## To install module manually by dragging up zip file, please download [.zip archive](https://gateway.vr-payment.de/doc/prestashop-1.7/1.2.49/vrpayment.zip) of module with correct structure required by Prestashop installation.
+## To install module manually by dragging up zip file, please download [.zip archive](https://gateway.vr-payment.de/doc/prestashop-1.7/1.2.50/vrpayment.zip) of module with correct structure required by Prestashop installation.
 
 ## Important Notice for Existing Merchants
 
@@ -34,7 +34,7 @@ Your prompt attention to these instructions is greatly appreciated. If you have 
 
 ## Documentation
 
-* [English](https://gateway.vr-payment.de/doc/prestashop-1.7/1.2.49/docs/en/documentation.html)
+* [English](https://gateway.vr-payment.de/doc/prestashop-1.7/1.2.50/docs/en/documentation.html)
 
 ## Support
 
@@ -42,7 +42,7 @@ Support queries can be issued on the [VR Payment support site](https://www.vr-pa
 
 ## License
 
-Please see the [license file](https://github.com/vr-payment/prestashop-1.7/blob/1.2.49/LICENSE) for more information.
+Please see the [license file](https://github.com/vr-payment/prestashop-1.7/blob/1.2.50/LICENSE) for more information.
 
 ## Other PrestaShop Versions
 
